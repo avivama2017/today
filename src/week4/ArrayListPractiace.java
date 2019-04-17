@@ -33,6 +33,8 @@ public class ArrayListPractiace {
 
 
 
+
+
   for (String s : fruits)
         System.out.println(s);
 
